@@ -1,0 +1,10 @@
+.env
+venv
+__pycache__/  
+.mypy_cache
+config/__pycache__/
+services/__pycache__/
+modular/__pycache__/    
+ui/__pycache__/
+*.pyc
+utils/__pycache__/
