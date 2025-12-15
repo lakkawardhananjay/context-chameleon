@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/12345/some-banner-image.png" alt="Context Chameleon Banner" width="600"/>
+  <img src="https://github.com/user-attachments/assets/9615ea24-a2cf-4b9b-845a-a9532e77db17" alt="Context Chameleon Banner" width="250"/>
   <br/>
   <h1>Context Chameleon</h1>
   <p><strong>Transform Your Product into Marketing Gold with AI-Powered Context Generation</strong></p>
@@ -64,7 +64,7 @@ Simply upload a single product image, and let our AI do the heavy lifting.
 | 🍾 **Intelligent Scenarios** | Automatically handles details like removing bottle caps for pouring/drinking scenes and adds contextual elements for different product types. |
 | 🚫 **Negative Prompts** | Provides granular control by allowing the exclusion of unwanted elements from the generated images. |
 
-### Available Marketing Vibes
+## Available Marketing Vibes
 
 | Vibe | Emoji | Description |
 | :--- | :---: | :--- |
@@ -74,6 +74,163 @@ Simply upload a single product image, and let our AI do the heavy lifting.
 | **Midnight Luxury** | 🌃 | A moody, cinematic vibe with neon/dark lighting in an urban context. |
 | **Hero Spotlight** | ✨ | Creates a dramatic, high-contrast "hero shot" for premium product emphasis. |
 | **Tech Abstract** | 🔮 | A clean, futuristic look with cool lighting, perfect for electronics and modern gadgets. |
+
+<table align="center">
+  <tr>
+    <th width="35%">📥 Input Product Image</th>
+    <th width="65%">📤 AI-Generated Marketing Assets (8K)</th>
+  </tr>
+
+  <tr>
+    <!-- INPUT COLUMN -->
+    <td align="center" valign="top">
+      <img 
+        src="https://github.com/user-attachments/assets/e96ad558-3846-4d79-a2bf-b53f04f1018b"
+        alt="Original Product Input"
+        width="300"
+      />
+      <br/><br/>
+      <em>Single product image uploaded by the user</em>
+    </td>
+
+<!-- OUTPUT COLUMN -->
+  <td align="center" valign="top">
+
+<strong>🛒 Marketplace Clean</strong><br/>
+<img 
+  src="https://github.com/user-attachments/assets/841a2bf2-221f-4041-9820-efbf6b5125e7"
+  width="260"
+/>
+<br/><br/>
+
+<strong>🧗 Consumption / Active</strong><br/>
+<img 
+  src="https://github.com/user-attachments/assets/774045c7-e149-4faa-8e3e-b58e3a8253c0"
+  width="260"
+/>
+<br/><br/>
+
+<strong>📸 Insta Lifestyle</strong><br/>
+<img 
+  src="https://github.com/user-attachments/assets/885248aa-d909-4e87-82a2-72b5a0195fda"
+  width="260"
+/>
+<br/><br/>
+
+<strong>🌃 Midnight Luxury</strong><br/>
+<img 
+  src="https://github.com/user-attachments/assets/48e4116d-f3a9-4112-93fe-773ad50b0c5e"
+  width="260"
+/>
+<br/><br/>
+
+<strong>✨ Hero Spotlight</strong><br/>
+<img 
+  src="https://github.com/user-attachments/assets/364594de-f3ab-433a-a309-8d41d9fa708d"
+  width="260"
+/>
+<br/><br/>
+
+<strong>🔮 Tech Abstract</strong><br/>
+<img 
+  src="https://github.com/user-attachments/assets/ae0dd116-10d6-4856-b619-f9fa83838ee0"
+  width="260"
+/>
+
+    
+  </tr>
+</table>
+
+
+---
+
+### 🔍 What This Demonstrates
+- ✅ One input image generates **multiple distinct marketing visuals**
+- ✅ Each output aligns with a **specific marketing context / vibe**
+- ✅ Context, lighting, props, and composition are **AI-generated**
+- ✅ Outputs are **8K-ready** for ads, e-commerce, and social media
+
+---
+
+## 🌍 UN Sustainable Development Goals (SDGs) Alignment
+
+Context Chameleon supports global sustainability goals by empowering MSMEs, creators, and businesses worldwide with accessible AI-driven marketing capabilities.
+
+<table align="center">
+<tr>
+<td align="center" width="230">
+  <img width="225" height="225" src="https://github.com/user-attachments/assets/0b28a077-6a87-417d-816f-d9e3b1a88016" />
+
+<br/>
+<strong>SDG 8: Decent Work & Economic Growth</strong>
+<br/>
+<sub>Enables MSMEs to grow revenue and market reach using affordable AI-powered marketing.</sub>
+</td>
+
+<td align="center" width="230">
+<img width="225" height="225" src="https://github.com/user-attachments/assets/35c976aa-0c11-4fe5-acdc-f226e2a6c7ef" />
+<br/>
+<strong>SDG 9: Industry, Innovation & Infrastructure</strong>
+<br/>
+<sub>Democratizes advanced AI infrastructure for digital commerce and creative industries.</sub>
+</td>
+
+<td align="center" width="230">
+<img width="225" height="225" src="https://github.com/user-attachments/assets/a2dd3eea-8e08-492e-af20-23824b909f02" />
+<br/>
+<strong>SDG 10: Reduced Inequalities</strong>
+<br/>
+<sub>Removes entry barriers by enabling high-quality marketing for any business, anywhere.</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="230">
+<img width="225" height="225" src="https://github.com/user-attachments/assets/3502c331-7e85-4d17-b0a2-21157259ad27" />
+<br/>
+<strong>SDG 12: Responsible Consumption & Production</strong>
+<br/>
+<sub>Reduces waste by eliminating repeated physical photoshoots through digital asset generation.</sub>
+</td>
+
+<td align="center" width="230">
+<img width="466" height="466" src="https://github.com/user-attachments/assets/7a1e6a27-e056-48ee-8a4a-37ffd31dde3f" />
+<br/>
+<strong>SDG 17: Partnerships for the Goals</strong>
+<br/>
+<sub>Leverages ecosystem collaboration between AI platforms, creators, and businesses.</sub>
+</td>
+
+<td align="center" width="230">
+<img width="225" height="225" src="https://github.com/user-attachments/assets/4a2c69a5-c67a-4886-87ea-2331440bd740" />
+<br/>
+<strong>SDG 13 – Climate Action:</strong>
+<br/>
+<sub>Reduces carbon emissions by minimizing travel, studio setups, reshoots, and physical production cycles through AI-generated visuals.</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### ✅ Why This Matters
+
+* 🌐 **No geography limits** — usable by any MSME globally
+* 💸 **Cost-efficient** — replaces expensive marketing pipelines
+* 🤖 **AI-for-Good** — productivity without exploitation
+* 🚀 **Scalable impact** — one product image → infinite value
+
+---
+
+If you want, next I can:
+
+* Merge this **directly into your full README**
+* Optimize wording for **UN / fellowship / accelerator submissions**
+* Add a **“Social Impact Metrics”** section (very jury-impressive)
+
+Just say the word.
+
+
 
 
 ## 🛠️ Technology Stack
