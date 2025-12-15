@@ -42,7 +42,7 @@ CONSUMPTION_SCENARIOS: Dict[str, List[Dict[str, str]]] = {
             "image_path": "assets/consumption/drinking.jpg",
             "prompt_modifier": "a happy person drinking from the beverage container, party atmosphere, bokeh background, high quality commercial advertisement, photorealistic, sharp focus on the product, captured mid-action.",
             # Add negative prompt directly here
-            "negative_prompt": "bottle cap, can lid, closed container, unopened, sealed, lid on, cap on, screw top, cap on bottle, bottle with cap, closed bottle"
+            "negative_prompt": "bottle cap, can lid, closed container, unopened, sealed, lid on, cap on, screw top, cap on bottle, bottle with cap, closed bottle ,white bottle cap,white ring opening,"
         },
         {
             "id": "table_pour",
@@ -110,7 +110,7 @@ CONSUMPTION_SCENARIOS: Dict[str, List[Dict[str, str]]] = {
          {
             "id": "generic_lifestyle",
             "label": "Lifestyle Context",
-            "image_path": "assets/consumption/generic.jpg",
+            "image_path": "assets/consumption/lifestyle_indoor_active.jpg",
             "prompt_modifier": "placed in a modern lifestyle home environment, sunlight, cozy atmosphere, interior design photography",
             "negative_prompt": "blurry, distorted, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face"
         },
