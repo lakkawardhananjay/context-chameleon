@@ -22,9 +22,8 @@
 > A Streamlit web application that transforms a single product image into a variety of professional, high-resolution (8K) marketing assets using a two-stage AI process.
 
 <br/>
-
 <p align="center">
-  <em>(Your App Demo GIF Here)</em>
+  <img src="https://github.com/user-attachments/assets/9d09ef16-25aa-4f8e-b6ec-4bc6df49c6cc" alt="Product upload and marketing asset generation demo" />
   <br/>
   <sup>A brief demonstration of uploading a product and generating marketing assets.</sup>
 </p>
