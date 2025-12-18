@@ -244,4 +244,4 @@ We welcome contributions from the open-source community! Whether you're fixing a
   <br/>
   <sub>Built with ❤️ for the Hackathon. Transforming pixels into profit.</sub>
 </div>
-```
+
