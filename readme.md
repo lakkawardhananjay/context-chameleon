@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9615ea24-a2cf-4b9b-845a-a9532e77db17" alt="Context Chameleon Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/9615ea24-a2cf-4b9b-845a-a9532e77db17" alt="Context Chameleon Banner" width="50%"/>
   <br/>
   <h1>🦎 Context Chameleon</h1>
   <h3>Transform Product Photos into Marketing Gold with Generative AI</h3>
@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <a href="#-visual-proof"><strong>View Demo</strong></a> •
+    <a href="https://github.com/user-attachments/assets/9d09ef16-25aa-4f8e-b6ec-4bc6df49c6cc"><strong>View Demo</strong></a> •
     <a href="#-getting-started"><strong>Deploy Now</strong></a> •
     <a href="#-impact-analysis"><strong>Read Impact</strong></a>
   </p>
